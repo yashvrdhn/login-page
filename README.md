@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+**for the login part 
+use 
+Email: "eve.holt@reqres.in"
+password: "cityslicka"**
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
